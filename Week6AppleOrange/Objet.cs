@@ -17,7 +17,7 @@ namespace Week6AppleOrange
 
 
 
-
+            Console.WriteLine("Hello world");
 
 
 
