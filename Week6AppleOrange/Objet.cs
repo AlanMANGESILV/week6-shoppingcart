@@ -14,6 +14,10 @@ namespace Week6AppleOrange
         public double Banana { get; set; }
         public Objet()
         {
+
+
+
+
             Apple = 0.60;
             Orange = 0.25;
             Chair = 25;
