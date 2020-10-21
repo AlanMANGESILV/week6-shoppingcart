@@ -18,6 +18,21 @@ namespace Week6AppleOrange
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             Apple = 0.60;
             Orange = 0.25;
             Chair = 25;
